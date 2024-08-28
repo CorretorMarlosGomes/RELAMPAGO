@@ -1,2 +1,8 @@
 # RELAMPAGO
 EU SOU UMA SUPER PASTA COM SUPER PODERES DE VERSIONAMENTO EU VIAJO NO MEU ESPAÇO
+
+IREMOS FAZER APARECER UMA IMAGEM:
+
+[[https://github.com/USERNAME/REPOSITORY/blob/main/img/octocat.png|alt=octocat]]
+
+[[https://github.com/USERNAME/REPOSITORY/blob/main/img/]]
