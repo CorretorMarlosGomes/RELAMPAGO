@@ -8,4 +8,4 @@ IREMOS FAZER APARECER UMA IMAGEM:
 
 ## Exemplo link
 
-![uol](https://www.uol.com.br/)
+[clique aqui oara se informar](https://www.uol.com.br/)
