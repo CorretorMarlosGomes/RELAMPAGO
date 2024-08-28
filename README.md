@@ -3,9 +3,4 @@ EU SOU UMA SUPER PASTA COM SUPER PODERES DE VERSIONAMENTO EU VIAJO NO MEU ESPAÇ
 
 IREMOS FAZER APARECER UMA IMAGEM:
 
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fvisitesaopaulo.com%2Fsobre-sp%2F&psig=AOvVaw0BS0UVHg9N3lK_mELh-qn1&ust=1724892311446000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJi60d26logDFQAAAAAdAAAAABAE]
-
-
-[https://images.ctfassets.net/uzue8dgm4ubt/3emHxfHQAWY0VM4KPh3sT1/05b0455ab7f97cd4f4862b0b5b00e52f/SP.jpg?fm=avif&w=1000&fit=scale] 
-
-[https://g1.globo.com/]
+[textoalternativolambo](https://www.google.com/imgres?q=lamborghini&imgurl=https%3A%2F%2Fi0.statig.com.br%2Fbancodeimagens%2F6g%2Fo1%2Faj%2F6go1aj28qv669oysn7lcw6g1f.jpg&imgrefurl=https%3A%2F%2Fcarros.ig.com.br%2F2024-06-14%2Flamborghini-se-torna-o-carro-mais-caro-ja-vendido-pela-internet.html&docid=8YKoeZvOygUJMM&tbnid=WrCdDolnkTje4M&vet=12ahUKEwimipq5vZaIAxW4LbkGHYrCAvEQM3oECBwQAA..i&w=906&h=509&hcb=2&ved=2ahUKEwimipq5vZaIAxW4LbkGHYrCAvEQM3oECBwQAA)
